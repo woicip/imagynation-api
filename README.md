@@ -41,9 +41,8 @@ This will pick random user for you everytime you hit the endpoint.
 GET | https://domain.com/user
 ```
 
+** JSON Response **
 ```JSON
-JSON Response
-
 {
     id: 5,
     name: "Josh Arthur",
@@ -61,6 +60,8 @@ JSON Response
 ```
 GET | https://domain.com/users
 ```
+
+** JSON Response **
 
 ```JSON
 JSON Response
@@ -99,6 +100,8 @@ JSON Response
 ```
 GET | https://domain.com/user/5
 ```
+
+** JSON Response **
 
 ```JSON
 JSON Response

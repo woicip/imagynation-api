@@ -56,6 +56,7 @@ GET | https://domain.com/user
 
 <a id="get-all-user"></a>
 ### 02. Get All User
+This endpoint will give you user's data from 1 to 10 in order
 
 ```
 GET | https://domain.com/users
@@ -70,7 +71,7 @@ GET | https://domain.com/users
         "name": "Alex Basherman",
         "email": "alex.basherman@email.com",
         "phone": "+1 (733) 991-3371",
-        a"vatar": "https://a.pomf.cat/ykbrtu.jpg"
+        "avatar": "https://a.pomf.cat/ykbrtu.jpg"
     },
     {
         "id": 2,
@@ -85,8 +86,7 @@ GET | https://domain.com/users
         "email": "georgeawilliam@mail.com",
         "phone": "+1 (626) 830-3705",
         "avatar": "https://a.pomf.cat/dfyjjj.jpg"
-    },
-    { ... }, { ... }, { ... }
+    }
 ]
 ```
 

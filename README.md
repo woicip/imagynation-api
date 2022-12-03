@@ -42,13 +42,13 @@ GET | https://domain.com/user
 ```
 
 **JSON Response**
-```JSON
+```json
 {
-    id: 5,
-    name: "Josh Arthur",
-    email: "arthur.josh@mail.com",
-    phone: "+1 (934) 759-2524",
-    avatar: "https://a.pomf.cat/vsglja.jpg"
+    "id": 5,
+    "name": "Josh Arthur",
+    "email": "arthur.josh@mail.com",
+    "phone": "+1 (934) 759-2524",
+    "avatar": "https://a.pomf.cat/vsglja.jpg"
 }
 ```
 
@@ -63,28 +63,28 @@ GET | https://domain.com/users
 
 **JSON Response**
 
-```JSON
+```json
 [
     {   
-        id: 1,
-        name: "Alex Basherman",
-        email: "alex.basherman@email.com",
-        phone: "+1 (733) 991-3371",
-        avatar: "https://a.pomf.cat/ykbrtu.jpg"
+        "id": 1,
+        "name": "Alex Basherman",
+        "email": "alex.basherman@email.com",
+        "phone": "+1 (733) 991-3371",
+        a"vatar": "https://a.pomf.cat/ykbrtu.jpg"
     },
     {
-        id: 2,
-        name: "Founche Daman",
-        email: "founcheDaman12@mail.com",
-        phone: "+1 (968) 558-4041",
-        avatar: "https://a.pomf.cat/uskdjm.jpg"
+        "id": 2,
+        "name": "Founche Daman",
+        "email": "founcheDaman12@mail.com",
+        "phone": "+1 (968) 558-4041",
+        "avatar": "https://a.pomf.cat/uskdjm.jpg"
     },
     {
-        id: 3,
-        name: "George A. William",
-        email: "georgeawilliam@mail.com",
-        phone: "+1 (626) 830-3705",
-        avatar: "https://a.pomf.cat/dfyjjj.jpg"
+        "id": 3,
+        "name": "George A. William",
+        "email": "georgeawilliam@mail.com",
+        "phone": "+1 (626) 830-3705",
+        "avatar": "https://a.pomf.cat/dfyjjj.jpg"
     },
     { ... }, { ... }, { ... }
 ]
@@ -103,11 +103,11 @@ GET | https://domain.com/user/5
 
 ```JSON
 {
-    id: 5,
-    name: "Josh Arthur",
-    email: "arthur.josh@mail.com",
-    phone: "+1 (934) 759-2524",
-    avatar: "https://a.pomf.cat/vsglja.jpg"
+    "id": 5,
+    "name": "Josh Arthur",
+    "email": "arthur.josh@mail.com",
+    "phone": "+1 (934) 759-2524",
+    "avatar": "https://a.pomf.cat/vsglja.jpg"
 }
 ```
 <br/>

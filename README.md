@@ -1,6 +1,6 @@
 <a id="home"></a>
 # 🧩 Imagynation API
-A REST API for developers to prototyping their real application using data they need with Imagy API that I made. Helping developers building their application.
+Create real-life application prototypes effortlessly with the Imagynation API. As a developer, you can now access the data you need to bring your ideas to life. Simplify your application development process with the help of Imagy API, designed to support you every step of the way.
 
 <br/>
 
